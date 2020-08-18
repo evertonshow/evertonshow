@@ -34,31 +34,31 @@
   <!-- ### Languages and Tools: -->
  
   <span title="Terminal">
-  <img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/terminal.svg"/>
+  <img alt="Terminal" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/terminal.svg"/>
   </span>
   <span title="NodeJS">
-  <img alt="NodeJS" width="35px" src="https://raw.githubusercontent.comevertonshow/evertonshow/master/icons/nodejs.svg"/>
+  <img alt="NodeJS" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/nodejs.svg"/>
   </span>
   <span title="React">
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/react.svg"/>
+  <img alt="React" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/react.svg"/>
   </span>
   <span title="Typescript">
-  <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/typescript.svg"/>
+  <img alt="Typescript" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/typescript.svg"/>
   </span>
   <span title="Javascript">
-  <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/javascript.svg"/>
+  <img alt="Javascript" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/javascript.svg"/>
   </span>
   <span title="HTML">
-  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/html.svg"/>
+  <img alt="HTML" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/html.svg"/>
   </span>
   <span title="CSS">
-  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/css.svg"/>
+  <img alt="CSS" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/css.svg"/>
   </span>
   <span title="Git">
-  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/git.svg"/>
+  <img alt="Git" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
-  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
+  <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="10%" />
   </span>
  
   <br />
