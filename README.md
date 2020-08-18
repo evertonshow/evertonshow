@@ -1,22 +1,23 @@
-# Hi, I'm Wellerson :man_technologist:
+# Hi, I'm Everton :man_technologist:
 
 <img align="right" alt="GIF" src="https://github.com/evertonshow/evertonshow/blob/master/gifs/Developer.gif" />
 
 ## About me
-- 👨‍🎓 Studying Computer Science.
-- 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data Science.
+- 👨‍🎓 Studying 
+information Technology.
+- 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data.
 - :blue_heart: Competitive Programming.
-- :video_game: I like playing video games.
-- 📚 Currently studying full stack development at [🚀Rocketseat GoStack](https://rocketseat.com.br/).
+- :video_game: I like playing video games and soccer.
+- 📚 Currently studying full stack development and towards the :rocket:.
 
  <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Networks</h2>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/wellersonprenholato/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellerson.prenholato@gmail.com)](mailto:wellerson.prenholato@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-souza-24101987/)](https://www.linkedin.com/in/everton-souza-24101987/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonfran1987@gmail.com)](mailto:evertonfran1987@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-@dev.evertonshow-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/everton_showw/)](https://www.instagram.com/everton_showw/)
   
-  <a aria-label="Completed" href="https://app.rocketseat.com.br/me/wellerson-prenholato">
+  <a aria-label="Completed" href="https://app.rocketseat.com.br/me/everton-souza">
     <img width="40%" src="https://img.shields.io/badge/Profile%20RocketSeat-GoStack%2013.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   
