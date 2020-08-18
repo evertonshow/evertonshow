@@ -3,12 +3,14 @@
 <img align="right" alt="GIF" src="https://github.com/evertonshow/evertonshow/blob/master/gifs/Developer.gif" />
 
 ## About me
+
 - 👨‍🎓 Studying 
 information Technology.
 - 👨🏻‍💻  Currently participating on some interesting projects based on Web Development and Data.
 - :blue_heart: Competitive Programming.
 - :video_game: I like playing video games and soccer.
-- 📚 Currently studying full stack development and towards the :rocket:.
+- 📚 Currently studying full stack development and towards the :rocket: .
+ 
 
  <p align="center"> 
   <h2>:mailbox_with_no_mail: Social Networks</h2>
