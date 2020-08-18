@@ -23,7 +23,7 @@
  
  <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/WellersonPrenholato/count.svg" />
+  <img src="https://profile-counter.glitch.me/evertonshow/count.svg" />
 </p>
 
   <p align="center">
