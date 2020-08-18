@@ -1,6 +1,6 @@
 # Hi, I'm Wellerson :man_technologist:
 
-<img align="right" alt="GIF" src="https://github.com/WellersonPrenholato/WellersonPrenholato/blob/master/gifs/Developer.gif" />
+<img align="right" alt="GIF" src="https://github.com/evertonshow/evertonshow/blob/master/gifs/Developer.gif" />
 
 ## About me
 - 👨‍🎓 Studying Computer Science.
